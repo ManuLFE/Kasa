@@ -22,7 +22,7 @@ const StyledNavbar = () => {
             isActive ? "navbar__links--active" : "navbar__links--inactive"
           }
         >
-          A propos
+          A Propos
         </NavLink>
       </div>
     </nav>
