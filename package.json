@@ -1,5 +1,5 @@
 {
-  "homepage": "",
+  "homepage": "https://github.com/ManuLFE/Kasa.git",
   "name": "kasa",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "sass": "sass --watch ./src/sass:./src",
     "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
