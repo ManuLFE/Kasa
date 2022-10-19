@@ -612,8 +612,8 @@ code {
   justify-content: flex-end;
   text-decoration: none;
   font-weight: 500;
-  text-transform: uppercase;
 }
+
 @media only screen and (min-width: 350px) {
   .navbar__links--inactive {
     font-size: small;
