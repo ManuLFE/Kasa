@@ -402,6 +402,7 @@ code {
 }
 .slider__previous, .slider__next {
   position: absolute;
+  cursor: pointer;
   top: 0;
   height: 100%;
   display: flex;
@@ -691,7 +692,6 @@ code {
 }
 .about__dropdowns {
   width: 90%;
-  text-align: auto;
   margin-left: auto;
   margin-right: auto;
 }
