@@ -1,5 +1,6 @@
-Pour lancer la Single Page Application Kasa. Exécutez simplement la commande suivante dans le dossier racine.
+Pour lancer la Single Page Application Kasa, exécutez simplement les commandes suivantes dans le dossier racine.
 
 ---
 
-`npm run start `
+` npm install `
+` npm run start `
