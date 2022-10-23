@@ -562,9 +562,23 @@ code {
 }
 .navbar__links {
   display: flex;
-  width: 33%;
+  white-space: nowrap;
+  gap: 15px;
   justify-content: space-around;
 }
+
+@media only screen and (max-width: 350px) {
+  .navbar__links {
+    font-size: 10px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .navbar__links {
+    text-transform: uppercase;
+  }
+}
+
 @media only screen and (min-width: 350px) {
   .navbar__links {
     width: 60%;
