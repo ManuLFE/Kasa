@@ -577,6 +577,11 @@ code {
   .navbar__links {
     text-transform: uppercase;
   }
+
+  .home__banner > .thumb {
+    height: 111px;
+    font-size: 18px;
+  }
 }
 
 @media only screen and (min-width: 350px) {
@@ -851,7 +856,7 @@ code {
 }
 @media only screen and (min-width: 350px) {
   .singleproduct__title, .thumb__title__banner {
-    font-size: 24px;
+    font-size: 18px;
   }
 }
 @media only screen and (min-width: 768px) {
